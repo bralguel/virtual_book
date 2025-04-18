@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejemplo_virtual_book</string>
+    <string name="title_activity_segunda_pantalla">segunda_pantalla</string>
+    <string name="title_activity_pantalla_segunda">pantalla_segunda</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750168666070",
+    "project_id": "prueba-1eed7",
+    "storage_bucket": "prueba-1eed7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750168666070:android:deebc77542a245387ebe77",
+        "android_client_info": {
+          "package_name": "com.example.ejemplo_virtual_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzYInKJIdj9DbJ7WNUGcbdQ0Jgz1tVNyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
